@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="11"
+    android:background="#85D3FF">
+
+    <TextView
+        android:id="@+id/activity_main_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:text="Catch Rat"
+        android:textColor="#FFFFFF"
+        android:textAlignment="center"
+        android:gravity="center|bottom"
+        android:textSize="28sp"/>
+
+    <androidx.constraintlayout.motion.widget.MotionLayout
+        android:id="@+id/activity_main_motion_layout"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="9"
+        app:layoutDescription="@xml/motion_scene_1">
+
+        <include layout="@layout/views"/>
+
+    </androidx.constraintlayout.motion.widget.MotionLayout>
+
+</LinearLayout>

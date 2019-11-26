@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">CatchCatch</string>
+    <string name="id">아이디</string>
+    <string name="login_password">비밀번호</string>
+    <string name="register_password">비밀번호 (8자 이상)</string>
+    <string name="register_password_check">비밀번호 확인</string>
+    <string name="name">이름</string>
+    <string name="login">로그인</string>
+    <string name="register">회원가입</string>
+    <string name="catch_catch">Catch Catch!</string>
+    <string name="hello">안녕하세요</string>
+    <string name="run">실행</string>
+    <string name="operation">조작</string>
+    <string name="stop">종료</string>
+    <string name="preparing">실행 준비 중</string>
+    <string name="recording_stop">녹화 저장</string>
+    <string name="recording_start">녹화 시작</string>
+    <string name="recording_preparing">다운로드 준비 중</string>
+    <string name="recording">다운로드 중</string>
+    <string name="catch_rat">Catch Rat</string>
+    <string name="wifi_is_not_connected">기기가 아직 연결되지 않았어요\n\n기기를 연결해주세요</string>
+    <string name="server_is_not_connected">서버에 연결할 수 없습니다.\n\n잠시 후 다시 시도해주세요.</string>
+    <string name="connect">연결하기</string>
+    <string name="auto_login">자동 로그인</string>
+    <string name="home">홈</string>
+    <string name="play">플레이</string>
+    <string name="streaming">지켜보기</string>
+    <string name="storage">보관함</string>
+
+    <string name="wifi_setting">WiFi 설정</string>
+    <string name="logout">로그아웃</string>
+
+    <string name="naver_client_id">EXqItvSAlACXKMG_ob8Q</string>
+    <string name="naver_client_secret">K939JgkjNK</string>
+    <string name="naver_client_name">CatchCatch</string>
+
+    <string name="facebook_app_id">417158408934137</string>
+    <string name="fb_login_protocol_scheme">fb417158408934137</string>
+</resources>

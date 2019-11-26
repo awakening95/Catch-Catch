@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19808bf4-ae94-4054-be8c-146936382802" name="Default Changelist" comment="">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving1_00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving1_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving1_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving1_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving1_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving1_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving1_06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving1_07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving1_08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving1_09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving1_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving1_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving1_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving1_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving1_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving1_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving1_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving1_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving1_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving1_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving1_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving2_00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving2_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving2_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving2_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving2_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving2_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving2_06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving2_07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving2_08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving2_09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving2_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving2_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving2_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving2_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving2_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving2_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving2_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving2_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving2_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving2_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving2_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving3_00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving3_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving3_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving3_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving3_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving3_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving3_06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving3_07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving3_08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving3_09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving3_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving3_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving3_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving3_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving3_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving3_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving3_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving3_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving3_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving3_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving3_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving4_00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving4_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving4_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving4_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving4_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving4_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving4_06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving4_07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving4_08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving4_09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving4_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving4_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving4_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving4_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving4_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving4_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving4_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving4_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving4_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving4_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlDiving4_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlFish_00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlFish_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlFish_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlFish_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlFish_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlFish_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlFish_06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlFish_07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlFish_08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlFish_09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlFish_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlFish_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlFish_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlFish_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlFish_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlFish_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlFish_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlFish_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlFish_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlFish_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/ControlFish_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fish/desktop.ini" afterDir="false" />
+>>>>>>> 9af623040839d192034659fda5090fd298610ac3
+>>>>>>> 691a30a6ea73d5168bdf033adb0a2b5f569f549a
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MouseGame.py" beforeDir="false" afterPath="$PROJECT_DIR$/MouseGame.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FishGame.py">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="450">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="187">
+              <caret line="122" column="47" selection-start-line="122" selection-start-column="47" selection-end-line="122" selection-end-column="47" />
+=======
+            <state relative-caret-position="448">
+              <caret line="37" column="39" lean-forward="true" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+>>>>>>> 9af623040839d192034659fda5090fd298610ac3
+>>>>>>> 691a30a6ea73d5168bdf033adb0a2b5f569f549a
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/control.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12030">
+              <caret line="408" column="26" selection-end-line="507" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/asdf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6930">
+              <caret line="239" column="29" selection-start-line="239" selection-start-column="29" selection-end-line="239" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MouseGame.py">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="361">
+              <caret line="280" column="22" selection-start-line="280" selection-start-column="22" selection-end-line="280" selection-end-column="22" />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="93">
+              <caret line="370" column="18" selection-start-line="370" selection-start-column="11" selection-end-line="370" selection-end-column="18" />
+=======
+            <state relative-caret-position="63">
+              <caret line="548" column="40" selection-start-line="548" selection-start-column="40" selection-end-line="548" selection-end-column="40" />
+>>>>>>> 9af623040839d192034659fda5090fd298610ac3
+>>>>>>> 691a30a6ea73d5168bdf033adb0a2b5f569f549a
+              <folding>
+                <element signature="e#22#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MoleGame.py">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="217">
+              <caret line="302" column="38" selection-start-line="302" selection-start-column="38" selection-end-line="302" selection-end-column="38" />
+=======
+            <state relative-caret-position="2640">
+              <caret line="95" column="32" selection-start-line="95" selection-start-column="32" selection-end-line="95" selection-end-column="32" />
+>>>>>>> 9af623040839d192034659fda5090fd298610ac3
+              <folding>
+                <element signature="e#22#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+<<<<<<< HEAD
+      <find>random</find>
+      <find>ratani</find>
+      <find>move_detected</find>
+      <find>detected</find>
+      <find>x0</find>
+      <find>cat_x</find>
+      <find>dirpath</find>
+      <find>scale</find>
+      <find>imagelist</find>
+      <find>randint</find>
+      <find>self.image</find>
+=======
+>>>>>>> 9af623040839d192034659fda5090fd298610ac3
+      <find>data</find>
+      <find>send</find>
+      <find>controlmouse</find>
+      <find>control</find>
+      <find>contr</find>
+      <find>self.appear</find>
+      <find>fullsc</find>
+      <find>diving</find>
+      <find>fish</find>
+      <find>print</find>
+      <find>location</find>
+<<<<<<< HEAD
+      <find>live_list</find>
+      <find>mouse_list</find>
+      <find>manager</find>
+      <find>StageManager</find>
+=======
+      <find>self.imagelist</find>
+      <find>cratimagelist</find>
+      <find>imagelist</find>
+      <find>control_speed</find>
+      <find>control_location</find>
+      <find>default_ani</find>
+      <find>control_auto</find>
+      <find>mouse</find>
+      <find>default</find>
+      <find>controlMouse</find>
+      <find>controlFish</find>
+      <find>control_use</find>
+      <find>control_</find>
+      <find>socket</find>
+      <find>물고기</find>
+      <find>control_diving</find>
+      <find>controlfish</find>
+<<<<<<< HEAD
+      <find>통신</find>
+      <find>control_booster</find>
+=======
+>>>>>>> 9af623040839d192034659fda5090fd298610ac3
+>>>>>>> 691a30a6ea73d5168bdf033adb0a2b5f569f549a
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="E:/python/argorithm/1138 한 줄로 서기 - 그리디.py" />
+        <option value="E:/python/argorithm/test2.py" />
+        <option value="E:/python/argorithm/2262 토너먼트 만들기 - 그리디.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/control.py" />
+        <option value="$PROJECT_DIR$/../../../알고리즘/test.py" />
+        <option value="$PROJECT_DIR$/asdf.py" />
+        <option value="$USER_HOME$/PycharmProjects/argorithm/test.py" />
+        <option value="$PROJECT_DIR$/MoleGame.py" />
+        <option value="$PROJECT_DIR$/FishGame.py" />
+        <option value="$PROJECT_DIR$/MouseGame.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/game.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="412" />
+    <option name="y" value="-16" />
+    <option name="width" value="974" />
+    <option name="height" value="1007" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/argorithm/test.py" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.FishGame">
+    <configuration name="FishGame" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="game" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FishGame.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MoleGame" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="game" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MoleGame.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MouseGame" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="game" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MouseGame.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="asdf" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="game" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/asdf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="game" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/argorithm" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/argorithm/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.FishGame" />
+        <item itemvalue="Python.MoleGame" />
+        <item itemvalue="Python.MouseGame" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.asdf" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19808bf4-ae94-4054-be8c-146936382802" name="Default Changelist" comment="" />
+      <created>1568785730433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568785730433</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" weight="0.50632244" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2064057" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20607375" />
+>>>>>>> 9af623040839d192034659fda5090fd298610ac3
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3985765" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.50632244" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3253012" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://E:/python/argorithm/2262 토너먼트 만들기 - 그리디.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://E:/python/argorithm/2262 토너먼트 만들기 - 그리디.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://E:/python/argorithm/2262 토너먼트 만들기 - 그리디.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://E:/python/argorithm/2262 토너먼트 만들기 - 그리디.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://E:/python/argorithm/2262 토너먼트 만들기 - 그리디.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://E:/python/argorithm/2262 토너먼트 만들기 - 그리디.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://E:/python/argorithm/2262 토너먼트 만들기 - 그리디.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://E:/python/argorithm/2262 토너먼트 만들기 - 그리디.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://E:/python/argorithm/2262 토너먼트 만들기 - 그리디.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://E:/python/argorithm/2262 토너먼트 만들기 - 그리디.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://E:/python/argorithm/2262 토너먼트 만들기 - 그리디.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://E:/python/argorithm/2262 토너먼트 만들기 - 그리디.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+<<<<<<< HEAD
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MouseGame.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MouseGame.py</url>
+          <line>364</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+=======
+>>>>>>> 9af623040839d192034659fda5090fd298610ac3
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://E:/python/argorithm/1138 한 줄로 서기 - 그리디.py" />
+    <entry file="file://E:/python/argorithm/test2.py" />
+    <entry file="file://E:/python/argorithm/2262 토너먼트 만들기 - 그리디.py" />
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/../../../알고리즘/test.py" />
+    <entry file="file://$PROJECT_DIR$/../../../WeatherRobot.py" />
+    <entry file="file://$USER_HOME$/PycharmProjects/argorithm/test.py" />
+    <entry file="file://$PROJECT_DIR$/FishGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/control.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12030">
+          <caret line="408" column="26" selection-end-line="507" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asdf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6930">
+          <caret line="239" column="29" selection-start-line="239" selection-start-column="29" selection-end-line="239" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$USER_HOME$/PycharmProjects/argorithm/test.py">
+=======
+    <entry file="file://$PROJECT_DIR$/MoleGame.py">
+>>>>>>> 9af623040839d192034659fda5090fd298610ac3
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2640">
+          <caret line="95" column="32" selection-start-line="95" selection-start-column="32" selection-end-line="95" selection-end-column="32" />
+          <folding>
+            <element signature="e#22#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MoleGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="361">
+          <caret line="280" column="22" selection-start-line="280" selection-start-column="22" selection-end-line="280" selection-end-column="22" />
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="217">
+          <caret line="302" column="38" selection-start-line="302" selection-start-column="38" selection-end-line="302" selection-end-column="38" />
+=======
+        <state relative-caret-position="63">
+          <caret line="548" column="40" selection-start-line="548" selection-start-column="40" selection-end-line="548" selection-end-column="40" />
+>>>>>>> 9af623040839d192034659fda5090fd298610ac3
+>>>>>>> 691a30a6ea73d5168bdf033adb0a2b5f569f549a
+          <folding>
+            <element signature="e#22#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/MouseGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="370" column="18" selection-start-line="370" selection-start-column="11" selection-end-line="370" selection-end-column="18" />
+          <folding>
+            <element signature="e#22#35#0" expanded="true" />
+          </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/FishGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="37" column="39" lean-forward="true" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+>>>>>>> 9af623040839d192034659fda5090fd298610ac3
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FishGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="122" column="47" selection-start-line="122" selection-start-column="47" selection-end-line="122" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 691a30a6ea73d5168bdf033adb0a2b5f569f549a
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

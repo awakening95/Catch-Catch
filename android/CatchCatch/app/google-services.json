@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "624221970998",
+    "firebase_url": "https://catchcatch-72521.firebaseio.com",
+    "project_id": "catchcatch-72521",
+    "storage_bucket": "catchcatch-72521.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624221970998:android:c0f8bd30e7f83e4a",
+        "android_client_info": {
+          "package_name": "com.catchcatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624221970998-nbk9uge9hdq58hrj9v9r469idkja7pc0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.catchcatch",
+            "certificate_hash": "84b2fab1d9448281788610553d3c9a2d181d0926"
+          }
+        },
+        {
+          "client_id": "624221970998-lh0tcds2730lo5clknp4cg9lhlapnprr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9DgCIW1e1O-YR7RugPhO-3PoweP4sROI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624221970998-lh0tcds2730lo5clknp4cg9lhlapnprr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
